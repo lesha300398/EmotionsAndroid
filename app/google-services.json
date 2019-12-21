@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "58137864574",
+    "firebase_url": "https://emotions-522da.firebaseio.com",
+    "project_id": "emotions-522da",
+    "storage_bucket": "emotions-522da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58137864574:android:33512f37af5d8e117aab2f",
+        "android_client_info": {
+          "package_name": "lesha300398.emotions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58137864574-a7eemdgfjp29bras5ofriblo1csh7lqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgKUU-9uSqIUQgc2wrjehpzVl3MEqr3C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58137864574-a7eemdgfjp29bras5ofriblo1csh7lqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
